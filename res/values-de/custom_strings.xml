@@ -23,6 +23,10 @@
     <string name="touchscreen_gesture_letter_z_title">Zeichne den Buchstabe \"Z\"</string>
     <string name="touchscreen_gesture_single_tap_title">Einfaches Tippen</string>
     <string name="touchscreen_gesture_double_tap_title">Doppeltes Tippen</string>
+    <string name="touchscreen_gesture_up_swipe">Nach oben wischen</string>
+    <string name="touchscreen_gesture_left_swipe">Links wischen</string>
+    <string name="touchscreen_gesture_right_swipe">Rechts wischen</string>
+    <string name="touchscreen_gesture_down_swipe">Runter wischen</string>
     <string name="touchscreen_gesture_swipe_up_stylus_title">Mit dem Stift nach oben wischen</string>
     <string name="touchscreen_gesture_swipe_down_stylus_title">Mit dem Stift nach unten wischen</string>
     <string name="touchscreen_gesture_swipe_left_stylus_title">Mit dem Stift nach links wischen</string>
@@ -43,4 +47,15 @@
     <string name="touchscreen_gesture_action_volume_up">Medienlautstärke erhöhen</string>
     <string name="touchscreen_gesture_action_ambient_display">Ambient-Display anzeigen</string>
     <string name="touchscreen_gesture_action_wake_device">Gerät aufwecken</string>
+    <string name="touchscreen_gesture_action_wechat_pay">Wechat Pay</string>
+    <string name="touchscreen_gesture_action_alipay_pay">Alipay Pay</string>
+    <string name="touchscreen_gesture_action_wechat_scan">Wechat Scannen</string>
+    <string name="touchscreen_gesture_action_alipay_scan">Alipay Scannen</string>
+    <string name="touchscreen_gesture_action_alipay_trip">Alipay Trip</string>
+    <string name="touchscreen_gesture_action_wallet_trip">Wallet Trip</string>
+    <string name="touchscreen_gesture_action_gpay">GPay</string>
+    <string name="touchscreen_gesture_action_paytm">Paytm</string>
+    <string name="touchscreen_gesture_action_paytm_scan_pay">Paytm Scan &amp; Pay</string>
+    <string name="touchscreen_gesture_action_paytm_qr_code">Paytm QR Code</string>
+    <string name="touchscreen_gesture_action_phonepe">PhonePe</string>
 </resources>
